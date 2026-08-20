@@ -1,16 +1,16 @@
-**Lovedeep Multani 👋**
+## Lovedeep Multani 👋
 
-**Master Data Management & Data Quality Leader | Turning messy enterprise data into trusted information**
+### Master Data Management & Data Quality Leader | Turning messy enterprise data into trusted information
 
 ---
-**🧭 About Me**
+## 🧭 About Me
 
 I'm a data quality and MDM leader with 12+ years of experience helping enterprises across healthcare and IT turn fragmented, unreliable data into a single source of truth. I've led large-scale Master Data Management, data quality, and data migration programs — designing match/survivorship rules, building data quality frameworks, and translating messy source data into clean, trusted, actionable datasets.
 
 I work at the intersection of program leadership and hands-on technical delivery — equally comfortable defining a data governance operating model for executive stakeholders as I am writing SQL/PL-SQL to profile a million-row dataset or building a Power BI dashboard that surfaces data issues in real time.
 
 ---
-**🛠️ What I Work With**
+## 🛠️ What I Work With
 
 **MDM & Data Quality**
 
