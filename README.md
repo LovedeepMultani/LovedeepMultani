@@ -1,8 +1,8 @@
-# Hi, I'm Lovedeep 👋
+# Hi, I am Lovedeep 👋
 
 ### Master Data Management | Data Quality | Data Governance | Healthcare Data
 
-I am a Master Data Management and Data Quality professional with 12+ years of experience working across data management, data quality, analysis, ETL solution design, and enterprise MDM initiatives.
+I am a Data Quality and Master Data Management professional with 12+ years of experience working across data management, data quality, analysis, ETL(OEDQ) solution design, and enterprise MDM initiatives.
 
 My focus is on helping organizations build **trusted, governed, and high-quality master data** that supports better business decisions and operational outcomes.
 
@@ -54,8 +54,8 @@ An end-to-end portfolio project demonstrating how healthcare master data can be 
 | --------------- | ---------------------------------------------- |
 | MDM             | Reltio, Oracle EDQ                             |
 | Data Quality    | SQL, Oracle EDQ, DQ Frameworks                 |
-| Database        | MySQL                                          |
-| Analytics       | Power BI, DAX                                  |
+| Database        | MySQL, Oracle, SQL server                      |
+| Analytics       | Power BI, DAX, Tableau                         |
 | Governance      | Data Governance, Data Stewardship              |
 | Data Management | Entity Resolution, Reference Data, Master Data |
 
@@ -67,7 +67,6 @@ I am currently expanding my portfolio around:
 
 * Healthcare Master Data Management
 * Data Quality Engineering
-* Data Governance
 * SQL-based DQ frameworks
 * Power BI Data Quality analytics
 * Entity Resolution & Matching
@@ -84,10 +83,10 @@ More projects will be added as the portfolio evolves.
 
 ## 🤝 Connect
 
-**LinkedIn:** [Add your LinkedIn profile here]
+**LinkedIn:** https://www.linkedin.com/in/lovedeepmultani/
 
 ---
 
 ### Data & Project Disclaimer
 
-The healthcare datasets used in these portfolio projects are **synthetic data created for demonstration and learning purposes**. They do not contain real patient or healthcare professional information.
+The healthcare datasets used in these portfolio projects are **synthetic data created for demonstration and learning purposes**. Do not contain real patient or healthcare professional information.
